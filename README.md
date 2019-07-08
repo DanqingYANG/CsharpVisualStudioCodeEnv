@@ -21,8 +21,16 @@ Steps are as following:
 ## Project Folder
 
 * Create a Folder (here in Sample , we use "DotNetCoreSample" as NameFolder)
+
 * Open Terminal, `Ctrl+Shift+`` (English) `Ctrl+Shift+ö`(German)
-* 接下来我们使用`dotnet new console --name DotNetCoreSample` 命令来在这个打开的终端里面创建一个基础的控制台程序并进行restore。如下图所示
+
+* Go to Terminal
+
+  ```bash
+  dotnet new console --name DotNetCoreSample
+  ```
+
+  Create a  Console and restore
 
 * Use C# for Visual Studio Code (powered by OmniSharp). to add two .json file
 
