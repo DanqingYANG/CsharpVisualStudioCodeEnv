@@ -22,7 +22,7 @@ Steps are as following:
 
 * Create a Folder (here in Sample , we use "DotNetCoreSample" as NameFolder)
 
-* Open Terminal, `Ctrl+Shift+`` (English) `Ctrl+Shift+ö`(German)
+* Open Terminal, `Ctrl+Shift+`` (English) ` , `Ctrl+Shift+ö ``(German)`
 
 * Go to Terminal
 
@@ -48,7 +48,7 @@ Steps are as following:
 
 ## Debug
 
-Set the parameter called *program* with the  filepath of the .dll for debut in launch.json 
+Set the parameter called `program` with the  filepath of the .dll for debug in launch.json 
 
 ```json
 "program": "${workspaceFolder}/DotNetCoreSample/bin/Debug/netcoreapp2.0/DotNetCoreSample.dll",
