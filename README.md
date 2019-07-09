@@ -22,7 +22,7 @@ Steps are as following:
 
 * Create a Folder (here in Sample , we use "DotNetCoreSample" as NameFolder)
 
-* Open Terminal, `Ctrl+Shift+`` (English) ` , `Ctrl+Shift+ö (German)`
+* Open Terminal, `Ctrl+Shift+` (English) ` , `Ctrl+Shift+ö (German)`
 
 * Go to Terminal
 
